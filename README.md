@@ -25,4 +25,5 @@ Before using this script, ensure you have met the following prerequisites:
    pip install requests
 
 Refer to GreenArrow Email's official documentation for more information: [GreenArrow Email API Documentation](https://www.greenarrowemail.com/docs/greenarrow-studio/APIs/API-V2/Delete-Campaigns)
+
 Note: This script is provided as-is and does not come with official support. For any issues or further assistance, refer to the GreenArrow Email documentation or seek help from the GreenArrow Email support team.
