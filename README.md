@@ -12,7 +12,9 @@ Delete a campaign via prompt using Python for GreenArrow Email.
    python3 ga-deletecampaign.py
 
 The script will prompt you for the campaign ID.
-Prerequisites
+
+## Prerequisites
+
 Before using this script, ensure you have met the following prerequisites:
 
 Python 3: Download and install Python
